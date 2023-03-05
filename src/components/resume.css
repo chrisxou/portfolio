@@ -1,0 +1,43 @@
+.container{
+    width: 100%;
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+
+
+
+}
+
+.skills{
+  width: 20%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+    }
+
+    .titleSkill{
+        font-size: 18px;
+        font-weight: bold;
+        color: #28254c94;
+    }
+
+.foto{
+    height: 100px;
+    width: 100px;
+}
+
+
+.skills2{
+    width: 600%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+      }
+
