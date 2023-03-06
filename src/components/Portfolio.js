@@ -7,7 +7,7 @@ export default class Porfolio extends Component {
       <section id="portfolio" style={{paddingTop:"40px"}}>
         <div className="row">
           <div className="twelve columns collapsed">
-            <h1 style={{fontSize:"35px"}}>Projects</h1>
+            <h1 style={{fontSize:"35px", paddingTop:"15px"}}>Projects</h1>
             {/* <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf"> */}
 
             <div className="container">

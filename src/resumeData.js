@@ -67,6 +67,11 @@ let resumeData = {
         "skillname":"SASS",
         "src":"https://img.icons8.com/ios-filled/100/null/sass.png"
       },
+         {
+        "skillname":"Joomla",
+        "src":"https://img.icons8.com/color/96/null/joomla.png"
+      },
+    
       {
         "skillname":"JavaScript",
         "src":"https://img.icons8.com/color/96/null/javascript--v1.png"
@@ -88,20 +93,18 @@ let resumeData = {
         "skillname":"PostgreSQL",
         "src":"https://img.icons8.com/plasticine/100/null/postgreesql.png"
       },
-      {
-        "skillname":"Git",
-        "src":"https://img.icons8.com/color/96/null/git.png"
-      },
-
+   
       {
         "skillname":"Azure",
         "src":"https://img.icons8.com/color/96/null/azure-1.png"
       },
-
-      {
-        "skillname":"Joomla",
-        "src":"https://img.icons8.com/color/96/null/joomla.png"
+        {
+        "skillname":"Git",
+        "src":"https://img.icons8.com/color/96/null/git.png"
       },
+
+
+      
 
 
 
