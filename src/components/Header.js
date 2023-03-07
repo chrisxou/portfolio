@@ -9,6 +9,7 @@ export default class Header extends Component {
             <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
               Show navigation
             </a>
+            {/* eslint-disable-next-line  */}
             <a className="mobile-btn" href="#" title="Hide navigation">
               Hide navigation
             </a>
@@ -58,6 +59,7 @@ export default class Header extends Component {
                   resumeData.socialLinks.map((item) => {
                     return (
                       <li key={item.name}>
+                        {/* eslint-disable-next-line  */}
                         <a href={item.url} target="_blank">
                           <i className={item.className} />
                         </a>
