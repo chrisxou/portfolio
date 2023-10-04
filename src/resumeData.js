@@ -33,6 +33,11 @@ let resumeData = {
       }
     ],
     "work":[
+        {
+         "CompanyName":"Netlink S.A.",
+        "specialization":"Full-Stack ReactJS and NodeJS Developer",
+        "YearOfLeaving":"05/2023 - Present",
+        },  
       {
         "CompanyName":"AVMap GIS",
         "specialization":"Web Developer (Internship)",
