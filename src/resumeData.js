@@ -37,6 +37,10 @@ let resumeData = {
          "CompanyName":"Netlink S.A.",
         "specialization":"Full-Stack ReactJS and NodeJS Developer",
         "YearOfLeaving":"05/2023 - Present",
+        "Achievements":[{
+          "achievement":"Built RESTful APIs using Node.js and Express.js, handling CRUD operations for various application features."},
+        {
+          "achievement":"Collaborated with frontend developers to define API specifications and endpoints for seamless integration."}]
         },  
       {
         "CompanyName":"AVMap GIS",
