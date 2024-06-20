@@ -33,10 +33,14 @@ let resumeData = {
       }
     ],
     "work":[
+         {
+         "CompanyName":"Upstream",
+        "specialization":"Junior Software Engineer",
+        "YearOfLeaving":"04/2024 - Present"
         {
          "CompanyName":"Netlink S.A.",
         "specialization":"Full-Stack ReactJS and NodeJS Developer",
-        "YearOfLeaving":"05/2023 - Present",
+        "YearOfLeaving":"05/2023 - 04/2024",
         "Achievements":[{
           "achievement":"Built RESTful APIs using Node.js and Express.js, handling CRUD operations for various application features."},
         {
